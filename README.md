@@ -1,6 +1,6 @@
 # Add to AdGuard
 
-'https://raw.githubusercontent.com/rsnodgrass/dns-blocklists/main/adblock/personal-rules.txt'
+https://raw.githubusercontent.com/rsnodgrass/dns-blocklists/main/adblock/personal-rules.txt
 
 # My Recommended
 
