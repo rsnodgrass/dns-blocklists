@@ -4,6 +4,11 @@
 ! Expires: Updated regularly
 ! Syntax: AdGuard
 
+! *** DynDNS ***
+
+@@||ydns.io^
+@@||duckdns.org^
+
 ! *** Google ***
 
 ||*.analytics.google.com^
