@@ -4,6 +4,11 @@
 ! Expires: Updated regularly
 ! Syntax: AdGuard
 
+! *** pfSense Updates ***
+
+@@||pdfsense.org^
+@@||pkg.pfsense.org^
+
 ! *** DynDNS ***
 
 @@||ydns.io^
