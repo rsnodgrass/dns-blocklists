@@ -9,6 +9,11 @@
 @@||ydns.io^
 @@||duckdns.org^
 
+! *** ADT ***
+
+@@||adt.com^
+@@||adtpulse.com^
+
 ! *** Google ***
 
 ||*.analytics.google.com^
