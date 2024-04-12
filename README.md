@@ -10,3 +10,6 @@ https://raw.githubusercontent.com/rsnodgrass/dns-blocklists/main/adblock/persona
 
 Read all about [HaGeZi's blocklists](https://github.com/hagezi/dns-blocklists).
 
+# Sync Config
+
+[AdGuard Sync](https://github.com/bakito/adguardhome-sync) can be used on replica instances to synchronize all configuration from a primary AdGuard instance. This enables running AdGuard in more of a high-availability model.
