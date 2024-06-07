@@ -14,6 +14,11 @@
 @@||ydns.io^
 @@||duckdns.org^
 
+! *** Unblock Tailscale ***
+
+@@||tailscale.com^
+@@||login.tailscale.com^
+
 ! *** ADT ***
 
 @@||adt.com^
@@ -34,8 +39,8 @@
 @@||fundingchoicesmessages.google.com^
 ||google-analytics.com^
 
-||googleadservices.com^
 ! Google Search referral links
+@@||googleadservices.com^
 @@||www.googleadservices.com^
 @@||adservice.google.*^
 
