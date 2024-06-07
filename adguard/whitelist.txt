@@ -1,0 +1,17 @@
+@@||pdfsense.org^
+@@||pkg.pfsense.org^
+@@||ydns.io^
+@@||duckdns.org^
+@@||tailscale.com^
+@@||login.tailscale.com^
+@@||adt.com^
+@@||adtpulse.com^
+@@||firebaselogging-pa.googleapis.com^
+@@||fundingchoicesmessages.google.com^
+@@||googleadservices.com^
+@@||www.googleadservices.com^
+@@||adservice.google.*^
+@@||www.googletagmanager.com^
+@@||www-googletagmanager.l.google.com^
+@@||ad.doubleclick.net^
+@@||id.google.*^
