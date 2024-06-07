@@ -12,4 +12,8 @@ Read all about [HaGeZi's blocklists](https://github.com/hagezi/dns-blocklists).
 
 # Sync Config
 
-[AdGuard Sync](https://github.com/bakito/adguardhome-sync) can be used on replica instances to synchronize all configuration from a primary AdGuard instance. This enables running AdGuard in more of a high-availability model.
+[AdGuard Home Sync](https://github.com/bakito/adguardhome-sync) can be used on replica instances to synchronize all configuration from a primary AdGuard instance. This enables running AdGuard in more of a high-availability model.
+
+This can also be used to synchronize config between several sites so only one has to be configured and all others can follow along. Another optionn is to use [keepalived](https://www.virtualizationhowto.com/2023/09/keepalived-high-availability-for-self-hosted-services/) with virtual IPs (VRRP).
+
+For static IP DNS resolvers, consider x.x.x.53 (or .51/.52).
