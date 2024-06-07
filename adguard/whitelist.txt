@@ -1,0 +1,57 @@
+! Title: Ryan's Personal AdGuard Rules
+! Description: My personal Block/Allow rules for AdGuard DNS.
+! Homepage: https://github.com/rsnodgrass/dns-blocklists
+! Expires: Updated regularly
+! Syntax: AdGuard
+
+! NOTE: @@ unblocks website
+
+! *** DynDNS ***
+
+@@||ydns.io^
+@@||duckdns.org^
+
+! *** ADT ***
+
+@@||adtpulse.com
+@@||adt.com
+
+
+! *** Unblock Tailscale ***
+
+@@||tailscale.com^
+@@||login.tailscale.com^
+
+! *** Google ***
+
+||*.analytics.google.com^
+||*google-analytics.l.google.com^
+||androidtvchannels-pa.googleapis.com^
+||androidtvwatsonfe-pa.googleapis.com^
+||app-measurement.com^
+||beacons*.gvt*.com^
+||crashlyticsreports-pa.googleapis.com^
+! Chormecast devices (connection, groups)
+@@||firebaselogging-pa.googleapis.com^
+! BBC Videos
+@@||fundingchoicesmessages.google.com^
+||google-analytics.com^
+
+@@||googleadservices.com^
+! Google Search referral links
+@@||www.googleadservices.com^
+@@||adservice.google.*^
+
+||googleoptimize.com^
+||googlesyndication.com^
+||googletagmanager.com^
+! Breaks site layouts, videos and more on some sites
+@@||www.googletagmanager.com^
+@@||www-googletagmanager.l.google.com^
+||googletagservices.com^
+||pagead-googlehosted.l.google.com^
+||doubleclick.net^
+! Google Search referral links
+@@||ad.doubleclick.net^
+! Google Reviews
+@@||id.google.*^
