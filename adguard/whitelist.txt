@@ -4,6 +4,8 @@
 @@||pkg.pfsense.org^
 @@||ydns.io^
 @@||duckdns.org^
+@@||mydns.one^
+@@||mydns.ninja^
 @@||tailscale.com^
 @@||login.tailscale.com^
 @@||adt.com^
