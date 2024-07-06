@@ -13,6 +13,8 @@
 
 @@||ydns.io^
 @@||duckdns.org^
+@@||mydns.one^
+@@||mydns.ninja^
 
 ! *** Unblock Tailscale ***
 
