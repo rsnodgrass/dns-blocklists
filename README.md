@@ -1,8 +1,23 @@
-# Add to AdGuard
+## /etc/hosts on MacOS
+
+* see https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
+* Need to whitelist several items from that (e.g. anything that resolves to 0.0.0.0)
+
+```console
+cd /tmp
+wget https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+cat hosts | grep -v 'googleadservices' | grep - v 'ad.doubleclick.net' > /etc/hosts
+```
+
+
+## AdGuard
+
+### Add to AdGuard
 
 https://raw.githubusercontent.com/rsnodgrass/dns-blocklists/main/adblock/personal-rules.txt
 
-# My Recommended
+## My Recommended
 
 * [HaGeZi's Pro Blocklist](https://adguardteam.github.io/HostlistsRegistry/assets/filter_48.txt)
 * [HaGeZi's Theat Intelligence](https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt)
@@ -10,7 +25,7 @@ https://raw.githubusercontent.com/rsnodgrass/dns-blocklists/main/adblock/persona
 
 Read all about [HaGeZi's blocklists](https://github.com/hagezi/dns-blocklists).
 
-# Sync Config
+## Sync Config
 
 [AdGuard Home Sync](https://github.com/bakito/adguardhome-sync) can be used on replica instances to synchronize all configuration from a primary AdGuard instance. This enables running AdGuard in more of a high-availability model.
 
