@@ -19,3 +19,4 @@
 @@||www-googletagmanager.l.google.com^
 @@||ad.doubleclick.net^
 @@||id.google.*^
+@@||link.carfax.com^
