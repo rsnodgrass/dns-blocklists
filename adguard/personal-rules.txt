@@ -4,10 +4,10 @@
 ! Expires: Updated regularly
 ! Syntax: AdGuard
 
-! *** pfSense Updates ***
+! *** Tailscale ***
 
-@@||pdfsense.org^
-@@||pkg.pfsense.org^
+@@||tailscale.com^
+@@||login.tailscale.com^
 
 ! *** DynDNS ***
 
@@ -16,15 +16,11 @@
 @@||mydns.one^
 @@||mydns.ninja^
 
-! *** Unblock Tailscale ***
-
-@@||tailscale.com^
-@@||login.tailscale.com^
-
-! *** ADT ***
+! *** Misc ***
 
 @@||adt.com^
 @@||adtpulse.com^
+@@||carfax.com^
 
 ! *** Google ***
 
@@ -59,3 +55,8 @@
 @@||ad.doubleclick.net^
 ! Google Reviews
 @@||id.google.*^
+
+! *** pfSense Updates ***
+
+@@||pdfsense.org^
+@@||pkg.pfsense.org^
