@@ -21,6 +21,7 @@
 @@||adt.com^
 @@||adtpulse.com^
 @@||carfax.com^
+@@||beacon.dropbox.com^
 
 ! *** Google ***
 

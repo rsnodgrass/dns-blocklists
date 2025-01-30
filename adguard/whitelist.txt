@@ -7,6 +7,7 @@
 @@||adt.com^
 @@||adtpulse.com^
 @@||carfax.com^
+@@||beacon.dropbox.com^
 @@||firebaselogging-pa.googleapis.com^
 @@||fundingchoicesmessages.google.com^
 @@||googleadservices.com^
