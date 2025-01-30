@@ -8,6 +8,7 @@
 @@||adtpulse.com^
 @@||carfax.com^
 @@||beacon.dropbox.com^
+@@||mask-api.icloud.com^
 @@||firebaselogging-pa.googleapis.com^
 @@||fundingchoicesmessages.google.com^
 @@||googleadservices.com^
