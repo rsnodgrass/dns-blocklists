@@ -22,7 +22,7 @@
 @@||adtpulse.com^
 @@||carfax.com^
 @@||beacon.dropbox.com^
-@@||mask-api.icloud.com^
+@@||icloud.com^
 
 ! *** Google ***
 
