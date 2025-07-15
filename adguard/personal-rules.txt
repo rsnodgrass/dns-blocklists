@@ -24,6 +24,9 @@
 @@||beacon.dropbox.com^
 @@||icloud.com^
 
+@@||file.ontraport.com^
+
+
 ! *** Google ***
 
 ||*.analytics.google.com^
