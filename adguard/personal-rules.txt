@@ -25,6 +25,7 @@
 @@||icloud.com^
 
 @@||file.ontraport.com^
+@@||posthog.com^
 
 
 ! *** Google ***
