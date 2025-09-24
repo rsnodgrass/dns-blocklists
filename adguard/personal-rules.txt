@@ -28,6 +28,11 @@
 @@||posthog.com^
 
 
+! *** Spotify Allow All Sites/Exports ***
+
+@@||spotify.com^
+
+
 ! *** Google ***
 
 ||*.analytics.google.com^
